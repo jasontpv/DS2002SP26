@@ -1,0 +1,22 @@
+station_id,station_name,city,state,zip_code,latitude,longitude,region
+STN-001,Downtown Charging Hub,Charlottesville,VA,22902,38.0293,-78.4767,Central
+STN-002,University Ave Station,Charlottesville,VA,22903,38.0336,-78.508,Central
+STN-003,Pantops Charging Plaza,Charlottesville,VA,22911,38.028,-78.449,East
+STN-004,Barracks Road Station,Charlottesville,VA,22903,38.044,-78.507,West
+STN-005,Rivanna Station,Charlottesville,Virginia,22911,38.052,-78.443,East
+STN-006,5th Street Hub,Charlottesville,VA,22902,38.02,-78.488,Central
+STN-007,Rio Road Charging,Charlottesville,VA,22901,38.07,-78.48,North
+STN-008,Hydraulic Rd Station,Charlottesville,VA,22901,38.056,-78.499,North
+STN-009,Seminole Trail Plaza,Charlottesville,VA,22901,38.08,-78.485,North
+STN-010,Avon Street Hub,Charlottesville,virginia,22902,38.01,-78.475,South
+STN-011,Fontaine Ave Station,Charlottesville,VA,22903,38.03,-78.515,West
+STN-012,Preston Ave Charger,Charlottesville,VA,22902,38.043,-78.485,
+STN-013,Albemarle Square,Charlottesville,VA,22901,38.065,-78.495,North
+STN-014,Scottsville Rd Station,Charlottesville,VA,22902,37.995,-78.485,South
+STN-015,Route 29 North Hub,Charlottesville,VA,22901,38.09,-78.475,North
+STN-016,Monticello Ave Station,Charlottesville,VA,22902,38.018,-78.465,East
+STN-017,Crozet Charging Depot,Crozet,Va,22932,38.07,-78.7,Outer
+STN-018,Zion Crossroads Hub,Zion Crossroads,VA,22942,38.01,-78.29,Outer
+STN001,Downtown Charging Hub,Charlottesville,VA,22902,38.0293,-78.4767,Central
+STN_007,Rio Road Charging,Charlottesville,Va.,22901,38.07,-78.48,North
+STN-019,Earlysville Station,Earlysville,Virginia,22936,,, North

@@ -1,0 +1,43 @@
+vehicle_id,vehicle_name,vehicle_class,connector_type,battery_kwh,manufacturer
+VH-001,Tesla Model 3,Sedan,CCS,75.0,Tesla
+VEH#0001,TESLA MODEL 3,SEDAN,CCS,,TESLA
+V_tesla_model_3,tesla model 3,sedan,ccs,75.0,tesla
+VH-002,Tesla Model Y,SUV,CCS,,Tesla
+VEH#0002,TESLA MODEL Y,SUV,CCS,,TESLA
+V_tesla_model_y,tesla model y,suv,ccs,75.0,tesla
+VH-003,Tesla Model S,Sedan,CCS,100.0,Tesla
+VEH#0003,TESLA MODEL S,suv,CCS,,TESLA
+V_tesla_model_s,tesla model s,sedan,ccs,100.0,tesla
+VH-004,Chevrolet Bolt EV,Hatchback,CCS,65.0,Chevrolet
+VEH#0004,CHEVROLET BOLT EV,HATCHBACK,CCS,,CHEVROLET
+V_chevrolet_bolt_ev,chevrolet bolt ev,hatchback,ccs,65.0,chevrolet
+VH-005,Chevrolet Bolt EUV,SUV,ccs,65.0,Chevrolet
+VEH#0005,CHEVROLET BOLT EUV,SUV,CCS,,CHEVROLET
+V_chevrolet_bolt_euv,chevrolet bolt euv,suv,ccs,65.0,chevrolet
+VH-006,Ford Mustang Mach-E,SUV,CCS,91.0,Ford
+VEH#0006,FORD MUSTANG MACH-E,SUV,CCS,,FORD
+V_ford_mustang_mach-e,ford mustang mach-e,suv,ccs,91.0,ford
+VH-007,Ford F-150 Lightning,Truck,CCS,131.0,
+VEH#0007,FORD F-150 LIGHTNING,TRUCK,CCS,,FORD
+V_ford_f-150_lightning,ford f-150 lightning,truck,ccs,131.0,ford
+VH-008,Hyundai Ioniq 5,SUV,CCS,77.4,Hyundai
+VEH#0008,Ford Mustang Mach E,SUV,CCS,,HYUNDAI
+V_hyundai_ioniq_5,hyundai ioniq 5,suv,ccs,77.4,hyundai
+VH-009,Kia EV6,SUV,CCS,77.4,Kia
+VEH#0009,HYUNDAI IONIQ5,SUV,CCS,,KIA
+V_kia_ev6,kia ev6,suv,ccs,77.4,kia
+VH-010,Nissan Leaf,Hatchback,CHAdeMO,40.0,Nissan
+VEH#0010,NISSAN LEAF,HATCHBACK,CHAdeMO,,NISSAN
+V_nissan_leaf,nissan leaf,hatchback,chademo,40.0,nissan
+VH-011,BMW iX,SUV,CCS,$76.6,BMW
+VEH#0011,BMW IX,SUV,CCS,,BMW
+V_bmw_ix,bmw ix,suv,ccs,76.6,bmw
+VH-012,Rivian R1T,Truck,CCS,135.0,Rivian
+VEH#0012,RIVIAN R1T,TRUCK,CCS,,RIVIAN
+V_rivian_r1t,rivian r1t,truck,ccs,135.0,rivian
+VH-013,Volkswagen ID.4,SUV,CCS,82.0,Volkswagen
+VEH#0013,VOLKSWAGEN ID.4,SUV,CCS,,VOLKSWAGEN
+V_volkswagen_id.4,volkswagen id.4,suv,ccs,82.0,volkswagen
+VH-014,Lucid Air,Sedan,CCS,112.0,Lucid
+VEH#0014,LUCID AIR,SEDAN,CCS,,LUCID
+V_lucid_air,lucid air,sedan,ccs,112.0,lucid

@@ -1,0 +1,6 @@
+operator_id,operator_name,city,state,avg_daily_capacity_mw,peak_capacity_mw,cost_per_kwh
+GO-CVL,Charlottesville Energy Cooperative,Charlottesville,VA,120,240,0.12
+GO-DOM,Dominion Energy Virginia,Richmond,VA,450,800,0.11
+GO-APC,Appalachian Power,Roanoke,VA,300,~550,0.13
+GO-REC,Rappahannock Electric,Fredericksburg,VA,200,400,0.14
+GO-NRG,Northern Virginia Electric,Fairfax,VA,380,700,
