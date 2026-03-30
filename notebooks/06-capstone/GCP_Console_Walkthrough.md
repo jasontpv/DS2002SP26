@@ -12,7 +12,7 @@ You have been granted access to the course GCP project using your UVA Google acc
 2. Sign in with your **@virginia.edu** email (or whichever Google account your instructor registered).
 3. After signing in, you should see the project selector in the top navigation bar. Click it and select the course project.
 
-[SCREENSHOT: GCP Console top bar with project selector dropdown]
+![GCP Console — Cloud Storage overview](console.png)
 
 If you do not see the course project listed, contact your instructor. It means your email has not been added to the project IAM yet.
 
@@ -26,7 +26,7 @@ Cloud Storage is where your raw data and team files live.
 2. You should see a bucket named `ds2002-capstone-sp26`.
 3. Click on the bucket name to open it.
 
-[SCREENSHOT: Cloud Storage bucket list showing ds2002-capstone-sp26]
+![Bucket contents — raw-data and team folders](bucket.png)
 
 Inside the bucket you will see:
 
@@ -44,7 +44,6 @@ ds2002-capstone-sp26/
   team-20/                 <- Team 20's workspace
 ```
 
-[SCREENSHOT: Bucket contents showing raw-data/ and team folders]
 
 **You can read anything in the bucket.** You can only write to your own team folder. If you try to delete or overwrite something in `raw-data/` or another team's folder, it will fail.
 
@@ -79,7 +78,7 @@ Your team folder already exists in the bucket (created by the setup script), but
 2. You should see a `.keep` placeholder file.
 3. Click **Upload Files** and upload any small text file to confirm write access works.
 
-[SCREENSHOT: Team folder view with Upload Files button highlighted]
+![Team folder in the bucket](bucket.png)
 
 ### From Your Colab Notebook (you will do this in the April 1 lab)
 
