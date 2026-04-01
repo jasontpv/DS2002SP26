@@ -2,3 +2,4 @@
 notebooks/06-capstone/setup_gcp_teams.sh
 notebooks/06-capstone/student_roster.csv
 notebooks/06-capstone/team-keys/
+notebooks/06-capstone/grant_vm_roles.sh
